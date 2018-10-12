@@ -1,0 +1,10 @@
+target
+dependency-reduced-pom.xml
+/.metadata/
+/.recommenders/
+.classpath
+.project
+.settings
+.idea/
+*.iml
+.DS_Store
