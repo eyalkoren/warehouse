@@ -1,4 +1,5 @@
 target
+output
 dependency-reduced-pom.xml
 /.metadata/
 /.recommenders/
